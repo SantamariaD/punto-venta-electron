@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzeus_front=self.webpackChunkzeus_front||[]).push([[427],{1427:(c,_,o)=>{o.r(_),o.d(_,{DocumentosModule:()=>D});var t=o(6895),m=o(3054),E=o(3558),l=o(7780),u=o(433),s=o(4650);let D=(()=>{class n{}return n.\u0275fac=function(a){return new(a||n)},n.\u0275mod=s.oAB({type:n}),n.\u0275inj=s.cJS({imports:[t.ez,m.c,E.w,l.m,u.u5,u.UX]}),n})()}}]);
